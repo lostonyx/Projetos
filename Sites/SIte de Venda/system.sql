@@ -79,16 +79,6 @@ CREATE TABLE `criador` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Extraindo dados da tabela `criador`
---
-
-INSERT INTO `criador` (`id`, `nome`, `mercadopagoID`, `mercadopagoSECRET`, `pagseguroEmail`, `pagseguroToken`) VALUES
-(1, 'wiljam', '1751654759286751', 'foS7O2QBAycyCfWrHpQqJtp6jY1jjAzT', 'teste', 'teste'),
-(2, 'eduard', 'lul', 'lul', 'lul', 'lul');
-
--- --------------------------------------------------------
-
---
 -- Estrutura da tabela `plugins`
 --
 

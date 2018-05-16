@@ -90,15 +90,6 @@ CREATE TABLE `criador` (
   `pagseguro` tinyint(1) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Extraindo dados da tabela `criador`
---
-
-INSERT INTO `criador` (`id`, `nome`, `mercadopagoID`, `mercadopagoSECRET`, `pagseguroEmail`, `pagseguroToken`, `mercadopago`, `pagseguro`) VALUES
-(1, 'wiljam', '1751654759286751', 'foS7O2QBAycyCfWrHpQqJtp6jY1jjAzT', 'willian.programadorce@gmail.com', '759A65C167B74E4FA688DF8DE5C03AB0', 1, 0),
-(2, 'eduard', 'lulfd', 'luldf', 'luldf', 'luldf', 1, 0),
-(5, 'piranhafrach', 'awdawd', 'awdawda', 'awdadaw', 'dawdawdaw', 0, 0);
-
 -- --------------------------------------------------------
 
 --
