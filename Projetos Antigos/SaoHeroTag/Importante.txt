@@ -1,0 +1,11 @@
+Para configurar as tags, são usadas permissões
+Exemplo:
+
+Tags:
+  dono: '[Dono]' « Para aparecer esta tag no jogador, você deve usar a seguinte permissao: viclantagsplus.dono
+  teste: '&lTag' « Permissão: viclantagsplus.teste
+  
+ Este projeto é open source, você pode alterar o código como bem entender, deixando somente os creditos principais caso for postar em algum fórum, ou site.
+ 
+ Criado por Viiict0r
+ Skype: SlipKnoTPacks

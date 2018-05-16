@@ -1,0 +1,8 @@
+main: me.wiljafor1.saocmds.Main
+name: SaoCmds
+version: 1.0
+author: Wiljafor1
+commands:
+    saoc: 
+        description: Gerencia o SaoCmds.
+        permission: sao.admin

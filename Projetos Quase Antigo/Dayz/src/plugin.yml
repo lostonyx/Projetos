@@ -1,0 +1,6 @@
+name: CriptonDayz
+main: com.dayz.Main
+version: 0.0.1
+description: Plugin desenvolvido pela MCGOD
+author: TioSasuke
+softdepend: [CriptonAPI]

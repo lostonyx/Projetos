@@ -1,0 +1,6 @@
+name: SaintsUpEnchant
+main: net.saintsupenchant.Main
+version: 1.8
+depend: [Vault]
+commands:
+    token:

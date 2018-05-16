@@ -1,0 +1,7 @@
+main: darknesstuto.DarkNessTuto
+name: DarkTuto
+version: 1.0
+author: Wiljafor1
+commands:
+    npc:
+        description:          

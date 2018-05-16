@@ -1,0 +1,12 @@
+main: darknessmoney.DarkNessMoney
+name: DarkMoney
+version: 1.0
+author: Wiljafor1
+commands:
+    pagar:
+        description:
+        alias:
+          - bal
+          - balance
+          - gold
+          - $

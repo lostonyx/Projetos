@@ -1,0 +1,10 @@
+# vIClanTagsPLUS v1.2
+# By Viiict0r
+
+Clan_Tag_Format: '[@clan&f]'
+Tempo_de_update: 10
+
+Tags:
+  dono: '&4[Dono] &f'
+  default: '@clantag '
+  ajudante: '&a[AJD] &f'

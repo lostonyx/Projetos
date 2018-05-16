@@ -1,0 +1,7 @@
+main: com.criptonnetwork.wiljafor1.wbau.Main
+name: wBau
+version: 0.1
+author: Wiljafor1
+commands:
+    bau:
+        description:  

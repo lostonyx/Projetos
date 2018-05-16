@@ -1,0 +1,7 @@
+main: me.wiljafor1.Main
+name: SaoLib
+version: 1.0
+author: Wiljafor1
+commands:
+    saoinfo:
+        description:  

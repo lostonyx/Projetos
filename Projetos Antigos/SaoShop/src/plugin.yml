@@ -1,0 +1,11 @@
+main: darknessloja.DarkNessLoja
+name: SaoShop
+version: 2.2
+author: Wiljafor1
+commands:
+    shop:
+        description:
+    ShopSet:
+        description:        
+    DelShop:
+        description:  

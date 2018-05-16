@@ -1,0 +1,9 @@
+main: me.wiljafor1.saoblock.Main
+name: SaoBlock
+version: 1.5
+author: Wiljafor1
+depend: [ProtocolLib]
+commands:
+    saob: 
+        description: Gerencia o SaoBlock.
+        permission: sao.admin

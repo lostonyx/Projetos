@@ -1,0 +1,6 @@
+name: SaintsUpMaconheiro
+main: net.wiljafor1.sum.Main
+version: 1.0
+depend: [Vault]
+commands:
+    maconheiro:

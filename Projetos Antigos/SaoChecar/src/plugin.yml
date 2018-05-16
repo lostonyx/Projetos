@@ -1,0 +1,11 @@
+main: me.wiljafor1.saochecar.Main
+name: SaoChecar
+version: 1.0
+author: Wiljafor1
+softdepend: [SaoLib, SaoBalancear, SaoCmds]
+loadbefore: [Vault]
+commands:
+    checar:
+        description:  
+    okay:
+        description:  

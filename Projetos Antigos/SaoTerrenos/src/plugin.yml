@@ -1,0 +1,8 @@
+name: DTerrenos
+version: 1.0
+main: me.dery.dterrenos.DTerrenos
+author: [Wiljafor1]
+
+commands:
+    terreno:
+    terrenos:

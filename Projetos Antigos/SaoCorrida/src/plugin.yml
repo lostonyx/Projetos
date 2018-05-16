@@ -1,0 +1,9 @@
+name: SaoCorrida
+main: net.wiljafor1.SaoCorrida
+version: 2.0
+depend: [Vault]
+commands:
+    evento:
+        description:     
+    saocorrida:
+        description:

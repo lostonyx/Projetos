@@ -1,0 +1,7 @@
+name: SaoDesafio
+main: co.saomc.SaoDesafio.SaoDesafio
+version: 2.0
+depend: [Vault]
+commands:  
+    saodesafio:
+        description:

@@ -1,0 +1,11 @@
+main: darkchat.DarkChat
+name: DarkChat
+version: 1.0
+author: Wiljafor1
+commands:
+    tocar:
+        description:
+    dkmutar:
+        description:  
+    pearl:
+        description:             

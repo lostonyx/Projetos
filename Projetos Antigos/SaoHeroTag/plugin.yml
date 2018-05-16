@@ -1,0 +1,7 @@
+main: me.viiict0r.clantagsplus.Main
+name: vIClanTagsPLUS
+version: 1.3
+author: Viiict0r
+commands:
+  ctp:
+    aliases: [clantagsplus]

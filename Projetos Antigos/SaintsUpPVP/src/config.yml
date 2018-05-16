@@ -1,0 +1,7 @@
+mysql:
+   host-name: localhost
+   porta: 3306
+   database: NiferPvP
+   usuario: root
+   senha:
+Magnata: 'Ninguem'

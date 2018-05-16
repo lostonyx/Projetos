@@ -1,0 +1,10 @@
+name: SaoGuard
+main: br.com.saomc.sg.SaoGuard
+version: 1.2
+depend: [WorldGuard, WorldEdit, Vault]
+description: W.I.P
+author: [Wiljafor1]
+commands:
+  saoguard:
+    aliases: ['casa', 'area', 'terreno']
+    description: Principal Command

@@ -1,0 +1,15 @@
+name: SaoLimitSpawner
+version: 1.0.0
+description: Limita os spawners
+author: Wiljafor1
+main: co.saomc.chunkspawnerlimit.ChunkSpawnerLimit
+
+commands:
+  spawnerlist:
+    description: lists spawners
+    usage: /spawnerlist
+    default: op
+  spawnerdelete:
+    description: deletes spawners
+    usage: /spawnerdelete
+    default: op

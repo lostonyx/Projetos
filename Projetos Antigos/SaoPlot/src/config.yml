@@ -1,0 +1,7 @@
+MySQL:
+  use: true
+  Host: localhost
+  Port: 3306
+  Username: root
+  Password: ''
+  Database: plot

@@ -1,0 +1,10 @@
+main: com.criptonnetwork.wiljafor1.wreferencia.Main
+name: WRefencia
+version: 1.5
+author: Wiljafor1
+description: Sistema de referencia.
+website: www.criptonnetwork.com
+commands:
+  referencia:
+    aliases: [ref,referencias]
+    description: Abrir menu

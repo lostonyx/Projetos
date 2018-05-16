@@ -1,0 +1,18 @@
+name: SaintsUpPVP
+main: me.wiljafor1.saintsup.Main
+version: 1.0
+author: Wiljafor1
+commands:
+   crate:
+   bau:
+   ping:
+   ec:
+   echest:
+   craft:
+   craftar:
+   fly:
+   voar:
+   reparar:
+   desencantar:
+   livros:
+   x1:

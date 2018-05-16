@@ -1,0 +1,5 @@
+name: CardinalManager
+main: net.wiljafor1.Main
+version: 2.2
+depend: [NoteBlockAPI,TheGreatSwordArtOnlineRPG]
+commands:

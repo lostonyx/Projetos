@@ -1,0 +1,5 @@
+name: SaoHelp
+main: so.saomc.wiljafor1.saohelp.Main
+version: 2.0
+depend: [Vault]
+commands:

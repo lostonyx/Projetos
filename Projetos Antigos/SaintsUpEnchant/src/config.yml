@@ -1,0 +1,16 @@
+#Sua Licenca
+key: 0000-0000-0000-0000
+Eficiencia_preco: 1500
+Eficiencia_max: 20
+Inquebravel_preco: 1000
+Inquebravel_max: 20
+Fortuna_preco: 1800
+Fortuna_max: 20
+Laser_preco: 3500
+Laser_max: 10
+Explosive_preco: 3000
+Explosive_max: 10
+Destructor_preco: 6000
+Destructor_max: 10
+PrisonMines: false
+doubletime:

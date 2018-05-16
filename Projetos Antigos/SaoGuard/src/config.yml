@@ -1,0 +1,82 @@
+# Proteger seu terreno
+# Ex. /terreno buy house 10 = 10 * BlockPurchasePrice = $100,00
+# Ex. /terreno buy house 100 = 100 * BlockPurchasePrice = $1000,00  
+BlockPurchasePrice: 10
+
+# Expandir seu terreno
+# Ex. /terreno expand house 1 = 1 * BlockPurchaseExpand = $50,00
+# Ex. /terreno expand house 10 = 10 * BlockPurchaseExpand = $500,00  
+BlockPurchaseExpand: 50
+
+#Preço de tirar/colocar pvp
+PVPPrice: 20000
+
+#Nome da moeda
+CoinName: $
+
+#Comando
+#Ex: /area, /hg, /house or /casa
+CommandName: /terreno
+#O mundo que o plugin vai funcionar //att Wiljafor1
+worldpossivel: terrenos
+#(TESTE)funciona assim se o player tiver a permissao saoguard.tamanho.10, ele pode comprar ate 10 de tamanha, saoguard.tamanho.20 = comprar ate 20 assim vai..
+#fiz ate 100 de tamanho por equanto
+buildper: false
+#Ativar o sistema em gui
+menugui: false
+#Serve como uma protecao em um determinada area para que o player não sete um terreno
+protspawn: false
+
+#Put false if you want leaving the block in the maximum height possible.
+#Put true if you want leave the block aligned with the y position player.
+Align: false
+
+# Site de material
+#http://jd.bukkit.org/rb/apidocs/src-html/org/bukkit/Material.html#line.64
+BlockName: FENCE
+
+# Limite de terreno
+MaxAreas: 1
+
+# Colocar o minimo de tamanho e o maximo
+MinSize: 50
+MaxSize: 100
+
+#Limitar altura
+MinHeight: 0
+MaxHeight: 256
+
+#Remover arvores ao comprar
+RemoveTree: false
+
+#Recomendo deixar assim por equanto
+Language: pt_BR
+
+#delay de tp
+tpDelay: 5
+
+#false = sqlite; true = mysql
+isMySQL: false
+Server: Localhost
+Database: hg
+User: root
+Password: root
+
+#	 Lista completa de permissoes
+#saoguard.NUMERO DE PLOTS ex: saoguard.1	 
+#saoguard.all todas
+#saoguard.build construir
+#saoguard.buy comprar
+#saoguard.sell vender 
+#saoguard.expand expand
+#saoguard.del nao usa
+#saoguard.addfriend
+#saoguard.delfriend
+#saoguard.rename nao usa
+#saoguard.pvp
+#saoguard.msg nao usa
+#saoguard.list nao usa
+#saoguard.info
+#saoguard.prices nao usa
+#saoguard.tp nao usa
+#saoguard.admin nao usa

@@ -1,0 +1,25 @@
+manda pegar do yml
+exemplo 
+Comandos:
+    bau:
+        comando:
+        substitue:
+        acao:
+    loja:
+        comando:
+        sub?
+        acao:
+            
+            
+no codigo
+um getconfig dps
+FOR(Manda pegar o tamanho de sublinhas de Comandos){
+Pega o nome do comando.
+depois pega Comandos.bau.comando EXEMPLO....
+LOGICA DE PRGRAMAçÃO
+
+
+}
+
+
+/saoalgumacoisa comandos add comando sub ?

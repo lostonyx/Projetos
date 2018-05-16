@@ -1,0 +1,7 @@
+name: CoinBunk
+version: 1
+main: coindarkness.CoinDarkNess
+author: Wiljafor1
+
+commands:
+    coins:

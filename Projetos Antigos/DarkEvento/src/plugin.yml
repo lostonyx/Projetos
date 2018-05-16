@@ -1,0 +1,13 @@
+name: DarkEvento
+main: darkevento.DarkEvento
+version: 3.6
+depend: [Vault]
+commands:
+    evento:
+        description:     
+    dkevento:
+        description:
+    dksetar:
+        description:      
+    dkstop:
+        description:    
