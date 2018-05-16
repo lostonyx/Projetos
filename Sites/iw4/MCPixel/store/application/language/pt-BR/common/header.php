@@ -1,0 +1,1 @@
+<?php// Text$_['text_account']       = 'Minha conta';$_['text_register']      = 'Cadastre-se';$_['text_login']         = 'CADASTRE-SE OU ENTRE EM SUA CONTA';$_['text_logout']        = 'Sair';// Cart$_['item_single'] = "item por %s";$_['item_multiple'] = "itens por %s";

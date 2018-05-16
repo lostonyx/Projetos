@@ -1,0 +1,68 @@
+2017-07-10 18:30:31 - Could not check for updates! See log file for details.
+2017-07-10 18:31:26 - Could not check for updates! See log file for details.
+2017-07-10 18:46:09 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-10 18:48:17 - Could not check for updates! See log file for details.
+2017-07-10 18:49:29 - Could not check for updates! See log file for details.
+2017-07-10 20:08:09 - Could not check for updates! See log file for details.
+2017-07-11 17:33:51 - Could not check for updates! See log file for details.
+2017-07-11 17:34:11 - Could not check for updates! See log file for details.
+2017-07-11 17:35:09 - Could not check for updates! See log file for details.
+2017-07-11 17:50:05 - Could not check for updates! See log file for details.
+2017-07-11 17:54:39 - Could not check for updates! See log file for details.
+2017-07-11 18:26:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:00:00 - Could not check for updates! See log file for details.
+2017-07-11 20:00:50 - Could not check for updates! See log file for details.
+2017-07-11 20:06:22 - Could not check for updates! See log file for details.
+2017-07-11 20:18:58 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 1239
+2017-07-11 20:19:06 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 1239
+2017-07-11 20:19:21 - PHP Notice:  Undefined index: product_price in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 1239
+2017-07-11 20:19:42 - PHP Notice:  Undefined index: status in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 1239
+2017-07-11 20:19:46 - PHP Notice:  Undefined index: status in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 1239
+2017-07-11 20:21:50 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:21:50 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:21:52 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:21:52 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:21:58 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:21:58 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\MCPixel\store\dashboard\controller\catalog\product.php on line 639
+2017-07-11 20:36:37 - Could not check for updates! See log file for details.
+2017-07-11 20:36:46 - Could not check for updates! See log file for details.
+2017-07-11 20:42:05 - Could not check for updates! See log file for details.
+2017-07-11 20:45:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:48:45 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:50:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:53:52 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:54:42 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 20:59:15 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\MCPixel\store\system\library\mail.php on line 175
+2017-07-11 21:57:39 - Could not check for updates! See log file for details.
+2017-08-27 11:22:01 - Could not check for updates! See log file for details.
+2017-08-27 15:20:21 - Could not check for updates! See log file for details.
+2017-08-27 15:21:24 - Could not check for updates! See log file for details.
+2017-08-27 15:33:04 - Could not check for updates! See log file for details.
+2017-08-27 15:33:07 - Could not check for updates! See log file for details.
+2017-08-27 16:48:53 - Could not check for updates! See log file for details.
+2017-08-27 16:49:04 - Could not check for updates! See log file for details.
+2017-08-27 16:55:08 - Could not check for updates! See log file for details.
+2017-08-27 16:55:29 - Could not check for updates! See log file for details.
+2017-08-27 16:55:41 - Could not check for updates! See log file for details.
+2017-08-27 16:55:58 - Could not check for updates! See log file for details.
+2017-08-27 16:55:59 - Could not check for updates! See log file for details.
+2017-08-27 17:19:02 - Could not check for updates! See log file for details.
+2017-08-27 20:54:47 - Could not check for updates! See log file for details.
+2017-08-27 21:24:11 - Could not check for updates! See log file for details.
+2017-08-27 21:28:30 - Could not check for updates! See log file for details.
+2017-08-27 21:40:37 - Could not check for updates! See log file for details.
+2017-08-27 21:43:12 - Could not check for updates! See log file for details.
+2017-08-27 21:43:14 - Could not check for updates! See log file for details.
+2017-08-27 21:43:59 - Could not check for updates! See log file for details.
+2017-08-27 21:45:09 - Could not check for updates! See log file for details.
+2017-08-27 21:45:34 - Could not check for updates! See log file for details.
+2017-08-27 21:50:40 - Could not check for updates! See log file for details.
+2017-08-28 14:54:59 - Could not check for updates! See log file for details.
+2017-08-28 14:55:06 - Could not check for updates! See log file for details.
+2017-08-28 15:57:46 - PHP Warning:  unlink(C:\xampp\htdocs\MCPixel\store/system/storage/cache/cache.language.1503946375): No such file or directory in C:\xampp\htdocs\MCPixel\store\system\library\cache\file.php on line 19
+2017-08-28 17:21:35 - Could not check for updates! See log file for details.
+2017-08-28 17:28:47 - Could not check for updates! See log file for details.
+2017-08-28 19:17:15 - Could not check for updates! See log file for details.
+2017-09-30 18:46:22 - Could not check for updates! See log file for details.
+2017-10-10 19:32:50 - Could not check for updates! See log file for details.
+2017-10-10 19:35:51 - Could not check for updates! See log file for details.

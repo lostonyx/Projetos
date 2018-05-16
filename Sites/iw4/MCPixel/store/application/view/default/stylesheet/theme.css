@@ -1,0 +1,89 @@
+.navbar-custom.nav-dark {
+    background-color: #c00527;
+    border-bottom: 3px solid #c00527;
+}
+
+.navbar-custom.nav-main {
+    background-color: #e5e5e5;
+}
+
+.panel .panel-heading {
+    background-color: #e5e5e5;
+}
+
+.panel .panel-heading.panel-dark {
+    background-color: #c00527;
+}
+
+.navbar-form .form-group input {
+	width: 300px !important;
+}
+
+/* Products Buttons */
+
+.products .btn.btn-dark, .products .btn.btn-default {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.caption h3, .caption p {
+	text-align: center !important;
+}
+
+/* Search Button */
+
+.nav .btn.btn-dark {
+	border-radius: 5px;
+}
+
+.nav .btn.btn-dark:hover {
+	background-color: #e5e5e5;
+}
+
+.btn.btn-dark {
+	color: #fff;
+    background-color: #c00527;
+	border: 1px solid #c00527;
+	margin-top: 1px;
+	border-radius: 0;
+}
+
+.btn.btn-dark:hover {
+    background-color: #fff;
+    border-color: #c00527;
+    color: #c00527;
+	-webkit-transition: background-color 250ms linear;
+	-ms-transition: background-color 250ms linear;
+	transition: background-color 250ms linear;
+}
+
+.btn.btn-default {
+    background-color: #fff;
+    color: #c00527;
+    border: 1px solid #c00527;
+    border-radius: 0;
+	margin-top: 1px;
+}
+
+.btn.btn-default:hover {
+    background-color: #c00527;
+    border-color: #c00527;
+    color: #fff;
+	-webkit-transition: background-color 250ms linear;
+	-ms-transition: background-color 250ms linear;
+	transition: background-color 250ms linear;
+}
+
+/* Products */
+
+.products .thumbnail .img-area {
+    background-size: 100%;
+}
+
+.products.products-home .thumbnail .img-area {
+    height: 179px;
+}
+
+.products.products-featured .thumbnail .img-area {
+    height: 220px;
+}

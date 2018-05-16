@@ -1,0 +1,85 @@
+
+/*/ *************** \*\
+    PROFILE IMG
+\*\ *************** /*/
+
+.profile-menu {}
+
+.profile-menu .img-circle {
+    margin: 10px 0 -10px 10px;
+}
+
+/*/ *************** \*\
+    STATUS MENU
+\*\ *************** /*/
+
+.status-menu {}
+
+.status-menu {
+    display: block;
+    padding: 20px;
+}
+
+.status-menu > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.status-menu > ul > li {
+    padding: 5px 0 0 0;
+}
+
+/*/ *************** \*\
+    BREADCRUMB
+\*\ *************** /*/
+
+.block-header {}
+
+.block-header .breadcrumb {
+    padding: 5px 0 !important;
+}
+
+/*/ *************** \*\
+    MAIN-MENU
+\*\ *************** /*/
+
+.main-menu {}
+
+.main-menu a {
+    cursor: pointer;
+}
+
+.main-menu > li.sub-menu > ul li.sub-menu > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: none;
+}
+
+.main-menu > li.sub-menu > ul li.sub-menu > ul > li > a {
+    color: #7a7a7a;
+    display: block;
+}
+
+.main-menu > li.sub-menu > ul li.sub-menu > ul > li > a:hover {
+    color: #444444;
+}
+
+.main-menu > li.sub-menu > ul li.sub-menu > ul > li > a {
+    padding: 10px 0 10px 75px;
+}
+
+.main-menu > li.sub-menu > ul li.sub-menu > ul > li.sub-menu > ul > li > a {
+    padding: 10px 0 10px 95px;
+}
+
+/*/ *************** \*\
+    FORM-CONTROL
+\*\ *************** /*/
+
+.form-control {}
+
+.form-control {
+    padding: 0 5px !important;
+}

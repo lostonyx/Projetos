@@ -1,0 +1,30 @@
+#BEGIN HOST BLOCK
+# The following configuration has been set by your hosting provider,
+# and has been put in place for the benefit of the server.
+#
+# Any modification or removal by non-authorized individuals may
+# result in corrective action.
+#
+# If you have any questions you may contact your provider for information.
+order deny,allow
+allow from 179.220.107.107
+
+#END HOST BLOCK
+
+Options +FollowSymlinks
+Options -Indexes
+
+# Prevent Direct Access to files
+
+<FilesMatch "(?i)((\.tpl|\.ini|\.log|(?<!robots)\.txt))">
+ Order deny,allow
+ Deny from all
+</FilesMatch>
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !.*\.(ico|gif|jpg|jpeg|png|js|css)
+
+RewriteRule ^(.+)$ index.php?route=$1 [QSA,L]

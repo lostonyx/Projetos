@@ -1,0 +1,36 @@
+<?php
+// Heading
+$_['heading_title']         = 'Histórico de pedidos';
+
+// Text
+$_['text_account']          = 'Minha conta';
+$_['text_order']            = 'Informações do pedido';
+$_['text_order_detail']     = 'Detalhes do pedido';
+$_['text_invoice_no']       = 'Fatura nº:';
+$_['text_order_id']         = 'Pedido nº:';
+$_['text_date_added']       = 'Cadastro:';
+$_['text_payment_address']  = 'Endereço para fatura';
+$_['text_payment_method']   = 'Método para pagamento:';
+$_['text_playername']       = 'Jogador do Minecraft:';
+$_['text_comment']          = 'Comentários do pedido';
+$_['text_history']          = 'Histórico do pedido';
+$_['text_success']          = 'Você adicionou <b>%s</b> no seu carrinho de compras</a>.';
+$_['text_empty']            = 'Você ainda não possui pedidos cadastrados.';
+$_['text_error']            = 'O pedido que você está procurando não foi encontrado!';
+
+// Column
+$_['column_order_id']       = 'Pedido nº';
+$_['column_product']        = 'Produtos';
+$_['column_customer']       = 'Cliente';
+$_['column_name']           = 'Produto';
+$_['column_model']          = 'Modelo';
+$_['column_quantity']       = 'Quantidade';
+$_['column_price']          = 'Preço';
+$_['column_total']          = 'Total';
+$_['column_action']         = 'Ação';
+$_['column_date_added']     = 'Cadastro';
+$_['column_status']         = 'Situação';
+$_['column_comment']        = 'Comentário';
+
+// Error
+$_['error_reorder']         = '%s não está disponível em nosso estoque.';

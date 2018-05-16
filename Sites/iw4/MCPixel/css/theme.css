@@ -1,0 +1,133 @@
+#logo {
+    margin-left: 25%;
+    width: 14%;
+    position: absolute;
+    float: right;
+}
+
+.navbar-brand > img {
+    display: block;
+    max-height: 50px;
+}
+
+.navbar-default .navbar-brand {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-default {
+    background-color: #f4f4f4;
+    border-bottom: 3px solid #c00527;
+    padding: 10px 0 8px;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: #AC1616;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #AC1616;
+}
+
+.navbar-default #navigation li {
+    margin-left: 10px;
+}
+
+.navbar-default #navigation a {
+    color: #7C7C7C;
+    font-size: 18px;
+}
+
+.navbar-nav a.current-header-item {
+    color: #c00527 !important;
+}
+
+.navbar-default #navigation a:hover {
+    color: #c00527;
+    -webkit-transition: color 250ms linear;
+    -ms-transition: color 250ms linear;
+    transition: color 250ms linear;
+}
+
+.label.label-nav.label-custom-icon {
+    background-color: #c00527;
+    padding: 2px 6px 3px;
+    font-size: 14px;
+    margin-right: 3px;
+}
+
+#social {
+    height: 20px !important;
+    background-color: rgb(158, 8, 0);
+    border-bottom: 2px solid rgb(158, 8, 0);
+}
+
+/* Footer */
+
+#social li a {
+    display: initial !important;
+    color: #c2b9bd;
+    padding: 5px 5px;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: inherit;
+}
+
+footer {
+    background-color: #1f1f1f;
+    border-top: 10px solid #464646;
+    width: 100%;
+    float: left;
+    margin: 20px 0 0 0;
+    padding: 15px 0;
+}
+
+footer .column .column-content ul li a {
+    color: #707070;
+}
+
+footer li {
+    list-style: none;
+}
+
+footer .column .column-content ul li a:hover {
+    color: #535353;
+    text-decoration: none;
+    -webkit-transition: color 100ms linear;
+    -ms-transition: color 100ms linear;
+    transition: color 100ms linear;
+}
+
+footer .column .column-name {
+    font-size: 16px;
+    color: #c00527;
+}
+
+footer .copyright-area {
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    margin-top: 30px;
+}
+
+footer .copyright-area a:hover, .copyright-area a:link {
+    text-decoration: none;
+}
+
+footer .images img {
+    float: right;
+    max-width: 100%;
+    max-height: 32px;
+}
+
+footer .dev-powered {
+    margin-top: 5px;
+    width: 100%;
+    color: #7c7c7c;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: right;
+}
